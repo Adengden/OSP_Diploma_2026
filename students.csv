@@ -1,4 +1,4 @@
-NO,NAME,INDEX,DEPARTMENT
+
 1,MOGGA WALTER,123456,Computer Science
 2,Eliana Daniel Manong Chany,22_Dcs_052,computer science
 3,Emmanuel Thubo,22_Dcs_148,Computer Science
@@ -10,4 +10,5 @@ NO,NAME,INDEX,DEPARTMENT
 9,Agnes Jokudu Andrew,22_Dcs_007,Computer science
 10,Rauth Nelson Taban,22_Dcs_116,Computer Science
 11,Dhel Mawien Dhel, 22_Dcs_047,Computer Science
-12,Dominic Unyango Martin, 22_Dcs_049,Computer Science
+12,Dominic Unyango Martin,22_Dcs_049,Computer Science
+13,Ceaser Anyanzo Gabriel,22_Dcs,033,Computer Science
